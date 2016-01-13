@@ -1,0 +1,27 @@
+{
+  "name": "camel2snake",
+  "version": "1.0.0",
+  "description": "camel case to snake case",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuzhigang33/camel2snake.git"
+  },
+  "keywords": [
+    "camel",
+    "snake",
+    "camel2snake"
+  ],
+  "author": "yuzhigang33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzhigang33/camel2snake/issues"
+  },
+  "homepage": "https://github.com/yuzhigang33/camel2snake#readme",
+  "dependencies": {
+    "decamelize": "~1.1.2"
+  }
+}

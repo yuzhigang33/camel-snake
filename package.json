@@ -1,6 +1,6 @@
 {
   "name": "camel2snake",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "camel case to snake case",
   "main": "index.js",
   "scripts": {
